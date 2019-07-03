@@ -4,6 +4,13 @@
       "github_dependency_config": {
         "repository_name": "test"
       },
+      "cd_dependency_config": {
+        "path_rules": [
+          "*=>dependencies"
+        ],
+        "build_id": "YAL_build",
+        "project_id": "ProjectINameYAP"
+      },
       "name": "TestDep"
     }
   ],
