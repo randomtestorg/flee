@@ -1,7 +1,13 @@
 {
-  "dependencies_config": [],
-  "build_id": "Some_Other_thing",
-  "name": "Reeves"
+  "dependencies_config": [
+    {
+      "github_dependency_config": {
+        "repository_name": "test"
+      },
+      "name": "TestDep"
+    }
+  ],
+  "build_id": "A_Unique_Id",
+  "name": "Keanu"
 }
-
 
